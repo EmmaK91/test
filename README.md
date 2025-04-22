@@ -2,19 +2,3 @@
 
 
 Skulle bara kolla om det funkar
-
-"<!Doctype html>
-<html>
-
-<head>
-    <title>Start</title>
-</head>
-
-<body>
-
-    <h1>Welcome to the start page!</h1>
-    <p>Here's a paragraf</p>
-
-</body>
-
-</html>"
